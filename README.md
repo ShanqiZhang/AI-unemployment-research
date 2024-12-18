@@ -1,6 +1,6 @@
 This repository contains codes for ECON 4901 (graduation thesis) research project "The effect of AI development on unemployment".
 
-The data_cleaning_final file contains Stata codes to restructure and clean raw data sets.
+The DataCleaning_final file contains Stata codes to restructure and clean raw data sets.
 
 The regression_final file contains Stata codes to run tests and regressions.
 
